@@ -4,7 +4,7 @@ python send.py -m "Here is your pdf."^ <br />
                 -pdf "file.pdf" ^ <br />
                 -sleep 15 ^ <br />
                 -excel "numbers.xlsx"^ <br />
-                &nbsp;-try 3 <br />
+                &emsp;-try 3 <br />
 it will load numbers from Excel from very first column <br />
 send pdf to all the numbers <br />
 if failed it will retry 3 times after some time <br />
